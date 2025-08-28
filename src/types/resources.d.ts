@@ -1,0 +1,13 @@
+interface Resources {
+  "translation": {
+    "about": {
+      "text": "testing check for custom error",
+      "othertext": "Other text for testing"
+    },
+    "routes": {
+      "about": "About Routes"
+    }
+  }
+}
+
+export default Resources;
